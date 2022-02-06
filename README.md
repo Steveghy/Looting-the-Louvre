@@ -5,3 +5,6 @@ game around the Lourve, located in Paris, France. It's arguably the most popular
 museum in the world, with multiple historical paintings, including the Mona Lisa.
 Looting the Lourve will educate younger kids about important works of art without needing
 to wander through a "boring" museum.
+
+
+Simply download the zip, extract it, and run the Executable! 
